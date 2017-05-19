@@ -32,5 +32,5 @@
   <project name="meta-toradex-nxp.git" path="layers/meta-toradex-nxp" remote="tdx" revision="d351e11b76c004afbf0f37d5481266bafdb015ee" upstream="morty"/>
   <project name="meta-toradex-tegra.git" path="layers/meta-toradex-tegra" remote="tdx" revision="fecccd7ebf62b8da88569d229b5c7bb3938aaa76" upstream="morty"/>
   <project name="openembedded-core.git" path="layers/openembedded-core" remote="oe" revision="ddf907ca95a19f54785079b4396935273b3747f6" upstream="morty"/>
-  <project name="meta-fuego-test.git" path="layers/meta-webinar" remote="leo" revision="1b4d2c79a3e54d86c09f42bca73e7d416954c324" upstream="master"/>
+  <project name="meta-fuego-test.git" path="layers/meta-webinar" remote="leo" revision="master"/>
 </manifest>
